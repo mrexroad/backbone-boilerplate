@@ -23,8 +23,6 @@ require.config({
       exports: "Backbone"
     },
 
-    // Backbone.LayoutManager depends on Backbone.
-    "plugins/backbone.layoutmanager": ["backbone"]
   }
 
 });
